@@ -1,5 +1,4 @@
-# aoqi
-奥奇传说手游微信公众号批量签到
+# 奥奇传说手游微信公众号批量签到
 
 config.json文件放在和py文件在同一个目录下，否则会出错
 config.json保存的是cookies,需要浏览器打开无痕浏览模式访问https://aqsy.100bt.com/act/signin/?fromAct=wx-aqsy-cd ，
